@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94c0e333-2b09-4f36-9e9d-fa5c115daf6a",
+  "path": "concept-coach",
+  "path_key": "concept-coach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

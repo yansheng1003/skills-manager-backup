@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "54711a54-3aa5-4be7-98d2-a453fed3ec28",
+  "name": "work",
+  "description": "办公用途",
+  "icon": "book-open",
+  "sort_order": 999
+}

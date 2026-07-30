@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "c61b46d7-8aef-4a49-b78f-dc4ba0321c27",
+  "name": "code",
+  "description": "编码",
+  "icon": "briefcase",
+  "sort_order": 999
+}

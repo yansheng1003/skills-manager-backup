@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scenario_id": "54711a54-3aa5-4be7-98d2-a453fed3ec28",
+  "skill_id": "eace304c-571f-46fd-af74-45163954450b",
+  "sort_order": 3,
+  "tools": {
+    "antigravity": true,
+    "antigravity_ide": false,
+    "claude_code": true,
+    "codex": true,
+    "gemini_cli": true,
+    "opencode": true,
+    "qwen_code": true
+  }
+}
