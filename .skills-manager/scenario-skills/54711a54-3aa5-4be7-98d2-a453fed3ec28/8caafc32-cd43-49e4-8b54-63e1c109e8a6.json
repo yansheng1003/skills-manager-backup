@@ -8,8 +8,8 @@
     "antigravity_ide": false,
     "claude_code": true,
     "codex": true,
-    "gemini_cli": true,
-    "omp_agent": true,
+    "gemini_cli": false,
+    "omp_agent": false,
     "opencode": true,
     "qwen_code": true
   }

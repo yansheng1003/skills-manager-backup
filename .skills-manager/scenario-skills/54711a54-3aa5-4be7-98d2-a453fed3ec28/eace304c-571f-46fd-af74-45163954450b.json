@@ -5,11 +5,11 @@
   "sort_order": 3,
   "tools": {
     "antigravity": true,
-    "antigravity_ide": false,
+    "antigravity_ide": true,
     "claude_code": true,
     "codex": true,
-    "gemini_cli": true,
-    "omp_agent": true,
+    "gemini_cli": false,
+    "omp_agent": false,
     "opencode": true,
     "qwen_code": true
   }
