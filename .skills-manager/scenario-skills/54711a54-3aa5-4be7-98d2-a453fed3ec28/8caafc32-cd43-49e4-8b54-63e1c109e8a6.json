@@ -9,6 +9,7 @@
     "claude_code": true,
     "codex": true,
     "gemini_cli": true,
+    "omp_agent": true,
     "opencode": true,
     "qwen_code": true
   }
