@@ -5,7 +5,7 @@
   "sort_order": 3,
   "tools": {
     "antigravity": false,
-    "antigravity_ide": true,
+    "antigravity_ide": false,
     "claude_code": true,
     "codex": true,
     "gemini_cli": false,
