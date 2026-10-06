@@ -8,6 +8,7 @@
     "antigravity_ide": false,
     "claude_code": true,
     "codex": true,
+    "deepseek_harness": true,
     "gemini_cli": false,
     "omp_agent": false,
     "opencode": true,
