@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20a4b2e8-aab3-40fd-a388-ee0b4ca07239",
+  "path": "retro",
+  "path_key": "retro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

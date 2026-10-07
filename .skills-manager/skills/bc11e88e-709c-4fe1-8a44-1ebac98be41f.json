@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bc11e88e-709c-4fe1-8a44-1ebac98be41f",
+  "path": "triage",
+  "path_key": "triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
