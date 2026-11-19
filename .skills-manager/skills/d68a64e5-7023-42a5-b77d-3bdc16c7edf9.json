@@ -6,9 +6,9 @@
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "local",
-    "ref": null,
-    "subpath": null,
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills.git",
+    "subpath": "skills/engineering/ask-matt",
     "branch": null
   }
 }
